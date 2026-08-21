@@ -137,12 +137,12 @@ It first builds a do not touch list, which includes:
 - command line buffers
 - also includes ranges reserved using `memmap=` option on command line
 
-Scans memory map received earlier from the firmware and finds the ranges where everything can fit. It draws random number using the best early entropy source. On modern CPUs, it's `rand` instruction on hardware. [[notes/hardware/trusted-platform-module]]
+Scans memory map received earlier from the firmware and finds the ranges where everything can fit. It draws random number using the best early entropy source. On modern CPUs, it's `rand` instruction on hardware. [trusted-platform-module](/hardware/trusted-platform-module.md)
 
 ### Start Kernel
 
 - `verify_cpu`, checks long mode support, verifies sse2, validates other cpu features. It fails here, to prevent running 64 bit kernel on 32 bit hardware. 
-- [[notes/linux/booting-linux-on-x86-64#Microcode patching]]
+- [Microcode patching](/linux/booting-linux-on-x86-64.md#Microcode%20patching)
 - resets the early identity mapped page tables
 - clears bss, zeros out `.bss` section
 - setups KASAN (Kernel Address Sanitizer)

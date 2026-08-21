@@ -2,7 +2,7 @@
 
 **Source**: https://www.youtube.com/watch?v=6v_BDHIgOY8
 
-- Check [[notes/container/containers#network]]
+- Check [network](/container/containers.md#network)
 - All containers have virtual ethernet(`veth`)interface attached
 - `veth` 's are created in pair's. For container networking, one part of the veth is in network namespace.
 - `bridge` interface is common connecting link. In a bridge, one part of it remains in host, other's are connected with multiple veth interfaces(container's). Bridge generally has a range of IP addresses (equivalent to each container's ip).

@@ -10,6 +10,9 @@
 - Compare approaches , and propose a plan
 - Troubleshoot issues and fix them
 
+### Tips
+
+- Always use better model for planing: Opus > Sonnet. 
 ### Skills/Tools
 
 - [Caveman](https://github.com/juliusbrussee/caveman)

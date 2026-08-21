@@ -24,7 +24,7 @@ $ printf "$(dd if=/dev/xvd1 bs=1 count=8 2> /dev/null)\n"
 ## Questions
 - 
 ## Related
-- [sshfs](/shell/sshfs.md)
+- [sshfs](/storage/sshfs.md)
 - [inspect-vm-filesystem](/virtualization/inspect-vm-filesystem.md)
 - [containers](/container/containers.md)
 - [initrd](/os-install/initrd.md)

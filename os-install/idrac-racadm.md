@@ -77,6 +77,37 @@ ctrl + \ to exit
 racadm getsysinfo
 ```
 
+### Virtual media
+
+Check [Attach virtual media](/os-install/redfish.md#Attach%20virtual%20media)
+
+Requires license. Although you can get trail enterprise license from dell website. Trial license can only be loaded once per server. After expiry you cannot add any other trial license. 
+
+Connect 
+```
+myracadm remoteimage -c -l http://10.40.16.10:8080/bootc-almalinux-10.2-bootc-generic-iso-x86_64/bootc-almalinux-10.2-bootc-generic-iso-x86_64.iso
+```
+
+Set first boot device to Virtual CD:
+```
+racadm set iDRAC.ServerBoot.FirstBootDevice VCD-DVD
+```
+
+Check status:
+```
+myracadm remoteimage -s
+```
+
+Disconnect:
+```
+myracadm remoteimage -d
+```
+### Connectivity Check
+
+```
+racadm ping 10.40.16.10
+racadm traceroute 10.40.16.10
+```
 ## Sources
 - 
 ## Questions

@@ -20,5 +20,5 @@ Type help gives you what you should do next. You can copy files to host via `cop
 ## Questions
 - There's a way to install os by using qcow2 image (without running the installer). How does that work? #question 
 ## Related
-- [dd](/shell/dd.md)
+- [dd](/storage/dd.md)
 - [taking-vm-snapshots-in-utm](/utm/taking-vm-snapshots-in-utm.md)

@@ -14,9 +14,9 @@ If you bring these together, some electrons from N type flow to holes in P type 
 
 Transistors are switch or amplifiers. A small current from emitter to base, drives a big current from emitter to collector. 
 
-![[Learn/_images/Pasted image 20260412110248.png|300]]
+![[notes/_images/Pasted image 20260412110248.png|300]]
 
-![[Learn/_images/Pasted image 20260412111121.png|400]]
+![[notes/_images/Pasted image 20260412111121.png|400]]
 
 #### How it works
 

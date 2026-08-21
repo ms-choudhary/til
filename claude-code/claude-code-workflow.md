@@ -33,8 +33,9 @@ I want to build a static website (on github pages) for my learnings, suggest a w
 > I want to build a new feature [name and description] that extends the system to perform [business outcome]. write a detailed plan.md document outlining how to implement this. include code snippets
 
 Eg:
-I want to change how envelopes are selected in ui. 
-By default, it should show all envelopes for the current month (same as today). Instead of combobox, make it a drop down select, when an envelope is selected, start date is auto set to the start of transaction for that envelope. end date is always today. Date can be changed later though. For eg usecase, select default, shows all transactions in default envelope from start till today, then user can change the date to select last month to drill down into specific dates. Ensure that ui is mobile friendly (iphone). write a detailed plan.md document outlining how to implement this. include code snippets. 
+
+The workdir contains two projects: til, ms-choudhary.github.io. I want to integrate the til notes in my static website (zola based), such that static site is build & released on every commit of til. Also I want to auto generate a readme (like this: https://github.com/jbranchaud/til). Take inspiration from https://github.com/simonw/til.  use AskUserQuestion tool to clarify any decisions. write a detailed plan.md document outlining how to implement this. include code snippets. 
+
 #### Annotate
 
 >I added a few notes to the document, address all the notes and update the document accordingly. don’t implement yet

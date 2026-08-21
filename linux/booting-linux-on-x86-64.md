@@ -23,7 +23,7 @@ BIOS (Basic Input Output System) is the firmware, manufacture developed primitiv
 
 ### UEFI
 
-[[Unified Extensible Firmware Interface (UEFI)]] is a modern firmware, overcomes the limitation of multi stage boot loading. It understand filesystems (FAT32) and can directly load bigger programs (can technically boot kernel without boot loader) without the limitation of 512 bytes. It can pass richer info to OS. 
+[[inbox/uefi]] is a modern firmware, overcomes the limitation of multi stage boot loading. It understand filesystems (FAT32) and can directly load bigger programs (can technically boot kernel without boot loader) without the limitation of 512 bytes. It can pass richer info to OS. 
 
 UEFI also handles the steps of setup program below:
 - Setup GDT, IDT, switch to protected mode
@@ -137,12 +137,12 @@ It first builds a do not touch list, which includes:
 - command line buffers
 - also includes ranges reserved using `memmap=` option on command line
 
-Scans memory map received earlier from the firmware and finds the ranges where everything can fit. It draws random number using the best early entropy source. On modern CPUs, it's `rand` instruction on hardware. [[Learn/hardware/trusted-platform-module]]
+Scans memory map received earlier from the firmware and finds the ranges where everything can fit. It draws random number using the best early entropy source. On modern CPUs, it's `rand` instruction on hardware. [[notes/hardware/trusted-platform-module]]
 
 ### Start Kernel
 
 - `verify_cpu`, checks long mode support, verifies sse2, validates other cpu features. It fails here, to prevent running 64 bit kernel on 32 bit hardware. 
-- [[Learn/linux/booting-linux-on-x86-64#Microcode patching]]
+- [[notes/linux/booting-linux-on-x86-64#Microcode patching]]
 - resets the early identity mapped page tables
 - clears bss, zeros out `.bss` section
 - setups KASAN (Kernel Address Sanitizer)

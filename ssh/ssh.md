@@ -2,7 +2,7 @@
 
 ### Forward tunnel
 
-![[Learn/_images/Pasted image 20260415210543.png|600]]
+![[notes/_images/Pasted image 20260415210543.png|600]]
 
 Service is **running on remote server**, and you're connecting to localhost on the client. 
 
@@ -29,7 +29,7 @@ In this case, any request on port 8000 on the client is forwarded to randomhost 
 
 ### Reverse Tunnel
 
-![[Learn/_images/Pasted image 20260415211658.png]]
+![[notes/_images/Pasted image 20260415211658.png]]
 Service is **running on local client**, and you're connecting to localhost on the vm. 
 
 ```
@@ -53,4 +53,4 @@ Any request on port 8000 on remote VM is forwarded via secure channel to localho
 ## Questions
 - Explore how connection is established and a terminal is spawn in ssh. #question 
 ## Related
-- [sshfs](/shell/sshfs.md)
+- [sshfs](/storage/sshfs.md)

@@ -32,5 +32,5 @@ $ systemctl restart iptables
 ## Questions
 - 
 ## Related
-- [ip-command](/networking/ip-command.md)
-- [container-networking](/networking/container-networking.md)
+- [ip-command](/notes/networking/ip-command.md)
+- [container-networking](/notes/networking/container-networking.md)

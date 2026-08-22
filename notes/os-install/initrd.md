@@ -24,9 +24,9 @@ lsinitrd path/to/initramfs.img
 ## Questions
 - 
 ## Related
-- [cobbler](/os-install/cobbler.md)
-- [anaconda](/os-install/anaconda.md)
-- [inspect-vm-filesystem](/virtualization/inspect-vm-filesystem.md)
-- [dd](/storage/dd.md)
-- [grub](/os-install/grub.md)
-- [booting-linux-on-x86-64](/linux/booting-linux-on-x86-64.md)
+- [cobbler](/notes/os-install/cobbler.md)
+- [anaconda](/notes/os-install/anaconda.md)
+- [inspect-vm-filesystem](/notes/virtualization/inspect-vm-filesystem.md)
+- [dd](/notes/storage/dd.md)
+- [grub](/notes/os-install/grub.md)
+- [booting-linux-on-x86-64](/notes/linux/booting-linux-on-x86-64.md)

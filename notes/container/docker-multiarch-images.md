@@ -79,4 +79,4 @@ It requires emulation via qemu, that must be separately configured.
 ## Questions
 - Explore qemu emulation and binfmt_misc #question 
 ## Related
-- [containers#Image](/container/containers.md#Image)
+- [containers#Image](/notes/container/containers.md#Image)

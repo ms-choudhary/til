@@ -11,4 +11,4 @@ Uses reliable TCP connection, instead of UDP (TFTP). Thus enables scalability & 
 ## Sources
 - 
 ## Related
-- [idrac-racadm](/os-install/idrac-racadm.md)
+- [idrac-racadm](/notes/os-install/idrac-racadm.md)

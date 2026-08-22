@@ -18,5 +18,5 @@ Under International Financial Services Centres Authority (IFSCA), Global Access 
 ## Sources
 - https://www.indmoney.com/blog/us-stocks/liberalised-remittance-scheme
 ## Related
-- [tcs](/money/tcs.md)
-- [income-tax](/money/income-tax.md)
+- [tcs](/notes/money/tcs.md)
+- [income-tax](/notes/money/income-tax.md)

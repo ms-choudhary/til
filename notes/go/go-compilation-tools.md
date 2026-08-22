@@ -78,4 +78,4 @@ go tool nm <binname>
 - Need to explore go runtime as well #question 
 - How does this integrate with gdb and other debuggers ? #question 
 ## Related
-- [go-build](/go/go-build.md)
+- [go-build](/notes/go/go-build.md)

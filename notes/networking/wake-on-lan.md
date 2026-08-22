@@ -19,4 +19,4 @@ Packet has to originate from the network the server is in.  Doesn't really matte
 ## Sources
 - 
 ## Related
-- [booting-linux-on-x86-64](/linux/booting-linux-on-x86-64.md)
+- [booting-linux-on-x86-64](/notes/linux/booting-linux-on-x86-64.md)

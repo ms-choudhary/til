@@ -26,6 +26,6 @@ Decryption happens in memory (RAM). Handled at OS/Browser level. Susceptible to 
 ## Sources
 - 
 ## Related
-- [trusted-platform-module](/hardware/trusted-platform-module.md)
+- [trusted-platform-module](/notes/hardware/trusted-platform-module.md)
 
 

@@ -76,6 +76,6 @@ If you don't see a packet arriving, ensure you've interface subnet added along w
 ## Questions
 - 
 ## Related
-- [cobbler](/os-install/cobbler.md)
-- [anaconda](/os-install/anaconda.md)
-- [Capture DHCP packets](/networking/tcpdump.md#Capture%20DHCP%20packets)
+- [cobbler](/notes/os-install/cobbler.md)
+- [anaconda](/notes/os-install/anaconda.md)
+- [Capture DHCP packets](/notes/networking/tcpdump.md#Capture%20DHCP%20packets)

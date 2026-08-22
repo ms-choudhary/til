@@ -81,4 +81,4 @@ $ apk info --who-owns /bin/ls
 ## Questions
 - 
 ## Related
-- [dynamic-kernel-modules](/linux/dynamic-kernel-modules.md)
+- [dynamic-kernel-modules](/notes/linux/dynamic-kernel-modules.md)

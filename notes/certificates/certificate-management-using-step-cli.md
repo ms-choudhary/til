@@ -17,6 +17,6 @@ $ step certificate create foo foo.crt foo.key --profile leaf \
 ## Questions
 - 
 ## Related
-- [openssl](/certificates/openssl.md)
-- [set-time-on-linux](/shell/set-time-on-linux.md)
-- [pki-certificates](/certificates/pki-certificates.md)
+- [openssl](/notes/certificates/openssl.md)
+- [set-time-on-linux](/notes/shell/set-time-on-linux.md)
+- [pki-certificates](/notes/certificates/pki-certificates.md)

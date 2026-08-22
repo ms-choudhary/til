@@ -164,4 +164,4 @@ Apart from misconfiguration and kernel bugs, bugs in container runtime also impa
 ## Questions
 - 
 ## Related
-- [container-networking](/networking/container-networking.md)
+- [container-networking](/notes/networking/container-networking.md)

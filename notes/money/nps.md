@@ -29,5 +29,5 @@ You can take loan against your NPS corpus.
 ## Sources
 - https://youtu.be/y0OhXSjcbkI?si=_C8tQRymXuskPaME
 ## Related
-- [income-tax](/money/income-tax.md)
-- [epf](/money/epf.md)
+- [income-tax](/notes/money/income-tax.md)
+- [epf](/notes/money/epf.md)

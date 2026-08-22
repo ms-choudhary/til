@@ -27,4 +27,4 @@ tcpdump -i bond0.101 -n -vvv -e ether host 2c:ea:7f:89:d5:95
 ## Questions
 - 
 ## Related
-- [dhcpd](/os-install/dhcpd.md)
+- [dhcpd](/notes/os-install/dhcpd.md)

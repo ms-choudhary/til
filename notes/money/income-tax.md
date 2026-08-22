@@ -51,8 +51,8 @@ It's a consolidated tax statement for all taxes which are deducted, like TDS, TC
 ## Sources
 - 
 ## Related
-- [tcs](/money/tcs.md)
-- [epf](/money/epf.md)
-- [nps](/money/nps.md)
-- [mutual-fund-taxation](/money/mutual-fund-taxation.md)
+- [tcs](/notes/money/tcs.md)
+- [epf](/notes/money/epf.md)
+- [nps](/notes/money/nps.md)
+- [mutual-fund-taxation](/notes/money/mutual-fund-taxation.md)
 

@@ -137,12 +137,12 @@ It first builds a do not touch list, which includes:
 - command line buffers
 - also includes ranges reserved using `memmap=` option on command line
 
-Scans memory map received earlier from the firmware and finds the ranges where everything can fit. It draws random number using the best early entropy source. On modern CPUs, it's `rand` instruction on hardware. [trusted-platform-module](/hardware/trusted-platform-module.md)
+Scans memory map received earlier from the firmware and finds the ranges where everything can fit. It draws random number using the best early entropy source. On modern CPUs, it's `rand` instruction on hardware. [trusted-platform-module](/notes/hardware/trusted-platform-module.md)
 
 ### Start Kernel
 
 - `verify_cpu`, checks long mode support, verifies sse2, validates other cpu features. It fails here, to prevent running 64 bit kernel on 32 bit hardware. 
-- [Microcode patching](/linux/booting-linux-on-x86-64.md#Microcode%20patching)
+- [Microcode patching](/notes/linux/booting-linux-on-x86-64.md#Microcode%20patching)
 - resets the early identity mapped page tables
 - clears bss, zeros out `.bss` section
 - setups KASAN (Kernel Address Sanitizer)
@@ -190,7 +190,7 @@ but it's risky.
 - https://docs.kernel.org/arch/x86/microcode.html
 - https://internals-for-interns.com/posts/linux-kernel-startup/
 ## Related
-- [wake-on-lan](/networking/wake-on-lan.md)
-- [grub](/os-install/grub.md)
-- [initrd](/os-install/initrd.md)
-- [anaconda](/os-install/anaconda.md)
+- [wake-on-lan](/notes/networking/wake-on-lan.md)
+- [grub](/notes/os-install/grub.md)
+- [initrd](/notes/os-install/initrd.md)
+- [anaconda](/notes/os-install/anaconda.md)

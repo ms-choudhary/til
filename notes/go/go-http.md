@@ -96,4 +96,4 @@ mux.Handle("GET /admin", adminChain.thenFunc(showAdminDashboard))
 - https://www.alexedwards.net/blog/making-and-using-middleware
 - https://www.alexedwards.net/blog/organize-your-go-middleware-without-dependencies
 ## Related
-- [handling-spa-go](/go/handling-spa-go.md)
+- [handling-spa-go](/notes/go/handling-spa-go.md)

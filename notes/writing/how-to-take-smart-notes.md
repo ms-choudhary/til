@@ -25,5 +25,5 @@ Add a index entry if needed, which acts as entrypoint to your notes about a topi
 ## Questions
 - 
 ## Related
-- [how-to-read-paper](/writing/how-to-read-paper.md)
-- [tips-on-technical-writing](/writing/tips-on-technical-writing.md)
+- [how-to-read-paper](/notes/writing/how-to-read-paper.md)
+- [tips-on-technical-writing](/notes/writing/tips-on-technical-writing.md)

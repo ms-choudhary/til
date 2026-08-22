@@ -79,7 +79,7 @@ racadm getsysinfo
 
 ### Virtual media
 
-Check [Attach virtual media](/os-install/redfish.md#Attach%20virtual%20media)
+Check [Attach virtual media](/notes/os-install/redfish.md#Attach%20virtual%20media)
 
 Requires license. Although you can get trail enterprise license from dell website. Trial license can only be loaded once per server. After expiry you cannot add any other trial license. 
 
@@ -113,6 +113,6 @@ racadm traceroute 10.40.16.10
 ## Questions
 - 
 ## Related
-- [cobbler](/os-install/cobbler.md)
-- [dhcpd](/os-install/dhcpd.md)
-- [redfish](/os-install/redfish.md)
+- [cobbler](/notes/os-install/cobbler.md)
+- [dhcpd](/notes/os-install/dhcpd.md)
+- [redfish](/notes/os-install/redfish.md)

@@ -24,5 +24,5 @@ Each user has unique UAN number linked to PAN. On changing organisation, UAN rem
 ## Sources
 - https://youtu.be/y0OhXSjcbkI?si=_C8tQRymXuskPaME
 ## Related
-- [PF Tax](/money/income-tax.md#PF%20Tax)
-- [nps](/money/nps.md)
+- [PF Tax](/notes/money/income-tax.md#PF%20Tax)
+- [nps](/notes/money/nps.md)

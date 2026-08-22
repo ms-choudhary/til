@@ -40,5 +40,5 @@ Some in general tips,
 ## Questions
 - 
 ## Related
-- [how-to-read-paper](/writing/how-to-read-paper.md)
-- [how-to-take-smart-notes](/writing/how-to-take-smart-notes.md)
+- [how-to-read-paper](/notes/writing/how-to-read-paper.md)
+- [how-to-take-smart-notes](/notes/writing/how-to-take-smart-notes.md)

@@ -12,5 +12,5 @@
 ## Questions
 - 
 ## Related
-- [initrd](/os-install/initrd.md)
-- [booting-linux-on-x86-64](/linux/booting-linux-on-x86-64.md)
+- [initrd](/notes/os-install/initrd.md)
+- [booting-linux-on-x86-64](/notes/linux/booting-linux-on-x86-64.md)

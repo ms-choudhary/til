@@ -49,5 +49,5 @@ Some tips on finding important papers in a field:
 ## Questions
 - 
 ## Related
-- [how-to-take-smart-notes](/writing/how-to-take-smart-notes.md)
-- [tips-on-technical-writing](/writing/tips-on-technical-writing.md)
+- [how-to-take-smart-notes](/notes/writing/how-to-take-smart-notes.md)
+- [tips-on-technical-writing](/notes/writing/tips-on-technical-writing.md)

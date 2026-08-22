@@ -81,7 +81,7 @@ groupSearch:
 ## Questions
 - 
 ## Related
-- [oidc](/security/oidc.md)
+- [oidc](/notes/security/oidc.md)
 
 
 

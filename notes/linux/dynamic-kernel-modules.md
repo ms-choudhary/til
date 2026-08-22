@@ -22,4 +22,4 @@ Akmods allows rebuilding the modules for a different kernel.
 - https://rpmfusion.org/Packaging/KernelModules/Akmods
 - https://en.wikipedia.org/wiki/Dynamic_Kernel_Module_Support
 ## Related
-- [package-management](/linux/package-management.md)
+- [package-management](/notes/linux/package-management.md)

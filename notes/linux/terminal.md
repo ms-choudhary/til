@@ -32,4 +32,4 @@ when you change the window size of the terminal, kernel sends a signal `SIGWINCH
 ## Questions
 - 
 ## Related
-- [shell-commands](/shell/shell-commands.md)
+- [shell-commands](/notes/shell/shell-commands.md)

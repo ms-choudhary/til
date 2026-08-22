@@ -44,4 +44,4 @@ Consists of lots of non go assets (eg templates, database migration etc). Also m
 ## Sources
 - https://www.alexedwards.net/blog/11-tips-for-structuring-your-go-projects
 ## Related
-- [go-language](/go/go-language.md)
+- [go-language](/notes/go/go-language.md)

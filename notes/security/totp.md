@@ -24,5 +24,5 @@ Client and server performs the same computation over 30s intervals, and should m
 ## Sources
 - https://www.youtube.com/watch?v=HFu3CUtrOQ8
 ## Related
-- [base32](/security/data-encoding.md#base32)
-- [pki-certificates](/certificates/pki-certificates.md)
+- [base32](/notes/security/data-encoding.md#base32)
+- [pki-certificates](/notes/certificates/pki-certificates.md)

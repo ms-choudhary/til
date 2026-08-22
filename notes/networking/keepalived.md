@@ -16,4 +16,4 @@ IPVS is a kernel mechanism to distribute connections to backend servers, basical
 ## Sources
 - 
 ## Related
-- [load-balancing-algorithms](/networking/load-balancing-algorithms.md)
+- [load-balancing-algorithms](/notes/networking/load-balancing-algorithms.md)

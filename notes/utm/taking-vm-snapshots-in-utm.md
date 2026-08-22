@@ -22,4 +22,4 @@ qemu-img snapshot F89035CE-DEF9-49D7-97F8-7EC0C2F3F9D9.qcow2 -a snapshot1
 ## Questions
 - 
 ## Related
-- [inspect-vm-filesystem](/virtualization/inspect-vm-filesystem.md)
+- [inspect-vm-filesystem](/notes/virtualization/inspect-vm-filesystem.md)

@@ -23,6 +23,6 @@ openssl ec -in input.key -out output.key
 ## Questions
 - 
 ## Related
-- [certificate-management-using-step-cli](/certificates/certificate-management-using-step-cli.md)
-- [set-time-on-linux](/shell/set-time-on-linux.md)
-- [pki-certificates](/certificates/pki-certificates.md)
+- [certificate-management-using-step-cli](/notes/certificates/certificate-management-using-step-cli.md)
+- [set-time-on-linux](/notes/shell/set-time-on-linux.md)
+- [pki-certificates](/notes/certificates/pki-certificates.md)

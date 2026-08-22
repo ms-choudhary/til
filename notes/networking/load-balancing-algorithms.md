@@ -55,4 +55,4 @@ In best of 2, you pick two backends randomly. Then, pick the one with low load. 
 - https://samwho.dev/load-balancing/
 - https://brooker.co.za/blog/2012/01/17/two-random.html
 ## Related
-- [keepalived](/networking/keepalived.md)
+- [keepalived](/notes/networking/keepalived.md)

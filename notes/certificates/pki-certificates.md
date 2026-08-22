@@ -122,7 +122,7 @@ openssl ec -in es256.key -pubout -out k.pub
 ## Sources
 - https://smallstep.com/blog/everything-pki/
 ## Related
-- [certificate-management-using-step-cli](/certificates/certificate-management-using-step-cli.md)
-- [openssl](/certificates/openssl.md)
-- [data-encoding#base64](/security/data-encoding.md#base64)
-- [totp](/security/totp.md)
+- [certificate-management-using-step-cli](/notes/certificates/certificate-management-using-step-cli.md)
+- [openssl](/notes/certificates/openssl.md)
+- [data-encoding#base64](/notes/security/data-encoding.md#base64)
+- [totp](/notes/security/totp.md)

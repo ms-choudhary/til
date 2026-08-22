@@ -39,5 +39,5 @@ umount ~/Documents/mnt
 - Explore fuse fs #question 
 - This reduces the iops on the backup drive, and you've to remount it again #question 
 ## Related
-- [dd](/storage/dd.md)
-- [ssh](/ssh/ssh.md)
+- [dd](/notes/storage/dd.md)
+- [ssh](/notes/ssh/ssh.md)

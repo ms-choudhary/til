@@ -22,4 +22,4 @@ It is generally handled by payment gateways.
 - How does this differ from e-mandate for SIPs NACH? #question 
 - How does this apply to UPI's autopay? #question 
 ## Related
-- [tcs](/money/tcs.md)
+- [tcs](/notes/money/tcs.md)

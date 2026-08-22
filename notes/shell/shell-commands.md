@@ -67,6 +67,6 @@ readlink -f path
 ## Questions
 - 
 ## Related
-- [terminal](/linux/terminal.md)
-- [vim](/shell/vim.md)
+- [terminal](/notes/linux/terminal.md)
+- [vim](/notes/shell/vim.md)
 

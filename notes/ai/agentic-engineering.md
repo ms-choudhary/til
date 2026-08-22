@@ -35,4 +35,4 @@ The biggest anti-pattern: not reviewing the code.
 ## Sources
 - 
 ## Related
-- [claude-code-workflow](/claude-code/claude-code-workflow.md)
+- [claude-code-workflow](/notes/claude-code/claude-code-workflow.md)

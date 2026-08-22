@@ -13,7 +13,7 @@ cobbler system add --name="k8s1ny-w-19.indexww.com" --hostname="k8s1ny-w-19.inde
 ## Questions
 - 
 ## Related
-- [anaconda](/os-install/anaconda.md)
-- [initrd](/os-install/initrd.md)
-- [dhcpd](/os-install/dhcpd.md)
-- [idrac-racadm](/os-install/idrac-racadm.md)
+- [anaconda](/notes/os-install/anaconda.md)
+- [initrd](/notes/os-install/initrd.md)
+- [dhcpd](/notes/os-install/dhcpd.md)
+- [idrac-racadm](/notes/os-install/idrac-racadm.md)

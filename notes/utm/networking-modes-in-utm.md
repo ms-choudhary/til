@@ -15,4 +15,4 @@ You can run apple virtualization VMs in two networking modes on UTM:
 ## Questions
 - This needs more details to trust the information listed. #question  
 ## Related
-- [How connection works for two containers on same host?](/networking/container-networking.md#How%20connection%20works%20for%20two%20containers%20on%20same%20host?)
+- [How connection works for two containers on same host?](/notes/networking/container-networking.md#How%20connection%20works%20for%20two%20containers%20on%20same%20host?)

@@ -55,4 +55,4 @@ The fix was to serve `index.html` for any path where file doesn't exist and let 
 ## Questions
 - 
 ## Related
-- [go-http](/go/go-http.md)
+- [go-http](/notes/go/go-http.md)

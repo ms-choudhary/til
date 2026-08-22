@@ -25,5 +25,5 @@ ip route get <ip>
 ## Questions
 - 
 ## Related
-- [iptables-command](/networking/iptables-command.md)
-- [container-networking](/networking/container-networking.md)
+- [iptables-command](/notes/networking/iptables-command.md)
+- [container-networking](/notes/networking/container-networking.md)

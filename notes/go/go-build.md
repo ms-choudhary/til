@@ -38,4 +38,4 @@ This also prints which go toolchain was used to build the binary.
 ## Questions
 - 
 ## Related
-- [go-compilation-tools](/go/go-compilation-tools.md)
+- [go-compilation-tools](/notes/go/go-compilation-tools.md)

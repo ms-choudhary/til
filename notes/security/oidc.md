@@ -94,5 +94,5 @@ All supported scopes are listed in discovery endpoint. You can implement custom 
 ## Questions
 - 
 ## Related
-- [Decoding JWT using jq](/shell/jq.md#Decoding%20JWT%20using%20jq)
-- [query-ldap-schema](/security/query-ldap-schema.md)
+- [Decoding JWT using jq](/notes/shell/jq.md#Decoding%20JWT%20using%20jq)
+- [query-ldap-schema](/notes/security/query-ldap-schema.md)

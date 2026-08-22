@@ -30,12 +30,12 @@ jobs:
             git push
           fi
 
-      #- name: Notify ms-choudhary.github.io to rebuild
-        #env:
-          #TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
-        #run: |
-          #curl -sSf -X POST \
-            #-H "Accept: application/vnd.github+json" \
-            #-H "Authorization: Bearer $TOKEN" \
-            #https://api.github.com/repos/ms-choudhary/ms-choudhary.github.io/dispatches \
-            #-d '{"event_type":"til-updated"}'
+      - name: Notify ms-choudhary.github.io to rebuild
+        env:
+          TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
+        run: |
+          curl -sSf -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $TOKEN" \
+            https://api.github.com/repos/ms-choudhary/ms-choudhary.github.io/dispatches \
+            -d '{"event_type":"til-updated"}'

@@ -13,6 +13,7 @@
 ### Tips
 
 - Always use better model for planing: Opus > Sonnet. 
+- If you’re working with some data, first run do some data sanity runs (with ai) and resolve inconsistencies before proceeding with plan. 
 ### Skills/Tools
 
 - [Caveman](https://github.com/juliusbrussee/caveman)

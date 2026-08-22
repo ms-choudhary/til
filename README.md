@@ -1,8 +1,8 @@
 # Today I Learned
 
-My Today I Learned notes. Inspired by [simonw/til](https://github.com/simonw/til).
+My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
-<!-- count starts -->85<!-- count ends --> TILs so far. 
+<!-- count starts -->85<!-- count ends --> notes so far. 
 
 <!-- index starts -->
 

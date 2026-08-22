@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Print metadata for every til note as a JSON array on stdout:
-[{"category": "git", "path": "git/common-git-commands.md", "title": "...",
+[{"category": "git", "path": "notes/git/common-git-commands.md", "title": "...",
   "added": "2026-08-19", "updated": "2026-08-19"}, ...]
 """
 import json
@@ -10,11 +10,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-SKIP_DIRS = {"_images"}
-
-
-def is_category_dir(path: Path) -> bool:
-    return path.is_dir() and path.name not in SKIP_DIRS and not path.name.startswith(".")
+NOTES_DIR = ROOT / "notes"
 
 
 def title_from(raw: str, fallback: str) -> str:
@@ -43,7 +39,7 @@ def git_dates(rel_path: Path) -> tuple[str, str]:
 
 def main() -> None:
     notes: list[dict[str, str]] = []
-    for category_dir in sorted(p for p in ROOT.iterdir() if is_category_dir(p)):
+    for category_dir in sorted(p for p in NOTES_DIR.iterdir() if p.is_dir()):
         for note_path in sorted(category_dir.glob("*.md")):
             rel = note_path.relative_to(ROOT)
             raw = note_path.read_text(encoding="utf-8", errors="ignore")

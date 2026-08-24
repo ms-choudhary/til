@@ -40,7 +40,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 * [Go compilation tools](https://github.com/ms-choudhary/til/blob/main/notes/go/go-compilation-tools.md) - 2026-08-22
 * [Go HTTP](https://github.com/ms-choudhary/til/blob/main/notes/go/go-http.md) - 2026-08-22
 * [Go project layout](https://github.com/ms-choudhary/til/blob/main/notes/go/go-project-layout.md) - 2026-08-22
-* [Golang Language](https://github.com/ms-choudhary/til/blob/main/notes/go/go-language.md) - 2026-08-22
+* [Golang Language](https://github.com/ms-choudhary/til/blob/main/notes/go/go-language.md) - 2026-08-24
 
 ## grafana-alloy
 

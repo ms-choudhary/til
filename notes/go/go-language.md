@@ -153,13 +153,6 @@ it accepts any input which implements interfaces io.Reader or io.Writer (basical
 - http.Response.Body (http response)
 - bytes.Buffer (similar to string, in memory buffer)
 - net.Conn (allows reading from socket, tcp or udp)
-## Desktop application in go
-
-[Wails])(https://wails.io/) helps bootstrap a desktop app in go. Allows a choice of frontend like Vue.js etc. It automatically create front-end binding classes and functions from go structs.
-
-## Data Indexing
-
-[blevesearch/bleve](https://github.com/blevesearch/bleve) is a data indexing and search library in go. 
 ## Sources
 - 
 ## Related

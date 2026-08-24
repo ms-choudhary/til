@@ -2,7 +2,7 @@
 
 My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
-<!-- count starts -->85<!-- count ends --> notes so far. 
+<!-- count starts -->86<!-- count ends --> notes so far. 
 
 <!-- index starts -->
 
@@ -48,6 +48,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
 ## hardware
 
+* [Building a datacenter](https://github.com/ms-choudhary/til/blob/main/notes/hardware/building-datacenter.md) - 2026-08-24
 * [Performance benchmark](https://github.com/ms-choudhary/til/blob/main/notes/hardware/performance-benchmark.md) - 2026-08-22
 * [Silicon Transistor Gallium](https://github.com/ms-choudhary/til/blob/main/notes/hardware/silicon-transistor-gallium.md) - 2026-08-22
 * [Trusted Platform Module (TPM)](https://github.com/ms-choudhary/til/blob/main/notes/hardware/trusted-platform-module.md) - 2026-08-22

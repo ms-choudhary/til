@@ -1,4 +1,6 @@
-# HTTP static endpoint discovery
+# Grafana Alloy
+
+### HTTP static endpoint discovery
 
 You can define static [http](https://grafana.com/docs/alloy/latest/reference/components/discovery/discovery.http/) endpoint for discovery of targets. 
 

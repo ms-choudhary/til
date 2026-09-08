@@ -23,7 +23,7 @@ BIOS (Basic Input Output System) is the firmware, manufacture developed primitiv
 
 ### UEFI
 
-[[inbox/uefi]] is a modern firmware, overcomes the limitation of multi stage boot loading. It understand filesystems (FAT32) and can directly load bigger programs (can technically boot kernel without boot loader) without the limitation of 512 bytes. It can pass richer info to OS. 
+[uefi](inbox/in-progress/uefi.md) is a modern firmware, overcomes the limitation of multi stage boot loading. It understand filesystems (FAT32) and can directly load bigger programs (can technically boot kernel without boot loader) without the limitation of 512 bytes. It can pass richer info to OS. 
 
 UEFI also handles the steps of setup program below:
 - Setup GDT, IDT, switch to protected mode

@@ -109,4 +109,4 @@ Each 64 KB block in chunk is checksummed. If chunkserver detects corruption, it 
 ## Questions
 - 
 ## Related
-- [[]]
+- [linux-file-io-buffering](/notes/storage/linux-file-io-buffering.md)

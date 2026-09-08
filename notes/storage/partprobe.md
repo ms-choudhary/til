@@ -10,4 +10,4 @@ partprobe
 ## Sources
 - 
 ## Related
-- [GUID Partition Table (GPT)](inbox/uefi.md#GUID%20Partition%20Table%20(GPT))
+- [GUID Partition Table (GPT)](inbox/in-progress/uefi.md#GUID%20Partition%20Table%20(GPT))

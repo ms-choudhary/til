@@ -1,21 +1,57 @@
 # Common git commands
 
-- `git help <command>` : help for a command
-- `git log --all --graph --decorate`: visualize history as DAG
-- `git diff <revision> <filenam>`: diff between commit & cur file
-- `git branch` : shows all branches
-- `git branch <name>`: create new branch
-- `git merge <revision>`: merges revision into current branch
-- `git remote -v`: list remotes
-- `git remote add <name> <url>`: add remote
-- `git push <remote> <local branch>:<remote branch>` : send objs to remote & update remote refs
-- `git fetch`: retrieve remote objs/refs
-- `git pull`: same as `git fetch; git merge`
-- `git reset HEAD <file>`: untrack a file
-- `git config` : customize git your way
-- `git add -p`: interactive staging
-- `git rebase` : apply cur changes on new base
-- `git rebase -i`: interactive rebase
-- `git blame`: who made the change
-- `git stash`: temp remove all mod to curr dir
-- `git rev-parse HEAD` : shows current head
+### List Remotes
+
+```
+git remote -v
+```
+
+### Add remote
+
+```
+git remote add <name> <url>
+```
+### Show current head
+
+Used in scripting:
+
+```
+git rev-parse HEAD
+```
+
+### Visualize history as DAG
+
+```
+git log --all --graph --decorate
+```
+
+### Interactive staging
+
+```
+git add -p .
+```
+
+Note: this doesn't consider untracked changes (new files not added yet). To add them:
+
+```
+git add -N .
+```
+
+`-N` = `--intent-to-add`
+
+
+### Interactive rebase
+
+Used for squashing commits:
+
+```
+git rebase -i origin main
+```
+
+```
+# Commands:
+# p, pick <commit> = use commit
+# r, reword <commit> = use commit, but edit the commit message
+# e, edit <commit> = use commit, but stop for amending
+# s, squash <commit> = use commit, but meld into previous commit
+```

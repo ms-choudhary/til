@@ -14,7 +14,7 @@ alias myracadm="racadm -r 10.118.16.27 -u root -p calvin --nocertwarn"
 ### Check sel logs
 
 ```
-/opt/ix/ops-bin/rracadm.sh -v db-vertica-vera-84.prod.tor3.indexww.com getsel -o
+/opt/ix/ops-bin/rracadm.sh -v bh2-prod-data-1407.ix1.indexww.com getsel -o
 ```
 
 ### Check cpu reset
@@ -71,6 +71,7 @@ console com2
 ```
 
 ctrl + \ to exit
+ ctrl + f12 = to access boot menu (not verified yet)
 ### System info
 
 ```
@@ -102,7 +103,7 @@ Disconnect:
 ```
 myracadm remoteimage -d
 ```
-### Connectivity Check
+### Connectivity from BMC
 
 ```
 racadm ping 10.40.16.10

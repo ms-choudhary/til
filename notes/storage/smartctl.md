@@ -9,6 +9,7 @@ smartctl --health /dev/sda1
 
 ### all
 
+health is sometimes superficial, check all:
 ```
 smartctl -a /dev/sda1
 ```

@@ -2,7 +2,7 @@
 
 My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
-<!-- count starts -->86<!-- count ends --> notes so far. 
+<!-- count starts -->101<!-- count ends --> notes so far. 
 
 <!-- index starts -->
 
@@ -19,7 +19,12 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
 ## claude-code
 
-* [Claude code Workflow](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/claude-code-workflow.md) - 2026-08-22
+* [Best Practices](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/best-practices.md) - 2026-09-08
+* [Claude code Workflow](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/claude-code-workflow.md) - 2026-09-08
+* [CLAUDE.md, Auto memory](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/claude-md.md) - 2026-09-08
+* [Prompts](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/prompts.md) - 2026-09-08
+* [Skills](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/skills-md.md) - 2026-09-08
+* [Subagents](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/subagents.md) - 2026-09-08
 
 ## container
 
@@ -28,10 +33,10 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
 ## git
 
-* [Common git commands](https://github.com/ms-choudhary/til/blob/main/notes/git/common-git-commands.md) - 2026-08-22
+* [Common git commands](https://github.com/ms-choudhary/til/blob/main/notes/git/common-git-commands.md) - 2026-09-08
 * [Git's data model as psuedo code](https://github.com/ms-choudhary/til/blob/main/notes/git/git-data-model-as-psuedo-code.md) - 2026-08-22
 * [Merge Strategies](https://github.com/ms-choudhary/til/blob/main/notes/git/merge-strategies.md) - 2026-08-22
-* [Oh shit git!](https://github.com/ms-choudhary/til/blob/main/notes/git/oh-shit-git.md) - 2026-08-22
+* [Oh shit git!](https://github.com/ms-choudhary/til/blob/main/notes/git/oh-shit-git.md) - 2026-09-08
 
 ## go
 
@@ -42,16 +47,16 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 * [Go project layout](https://github.com/ms-choudhary/til/blob/main/notes/go/go-project-layout.md) - 2026-08-22
 * [Golang Language](https://github.com/ms-choudhary/til/blob/main/notes/go/go-language.md) - 2026-08-24
 
-## grafana-alloy
-
-* [HTTP static endpoint discovery](https://github.com/ms-choudhary/til/blob/main/notes/grafana-alloy/http-static-endpoint-discovery.md) - 2026-08-22
-
 ## hardware
 
 * [Building a datacenter](https://github.com/ms-choudhary/til/blob/main/notes/hardware/building-datacenter.md) - 2026-08-24
 * [Performance benchmark](https://github.com/ms-choudhary/til/blob/main/notes/hardware/performance-benchmark.md) - 2026-08-22
 * [Silicon Transistor Gallium](https://github.com/ms-choudhary/til/blob/main/notes/hardware/silicon-transistor-gallium.md) - 2026-08-22
 * [Trusted Platform Module (TPM)](https://github.com/ms-choudhary/til/blob/main/notes/hardware/trusted-platform-module.md) - 2026-08-22
+
+## http
+
+* [Nginx](https://github.com/ms-choudhary/til/blob/main/notes/http/nginx.md) - 2026-09-08
 
 ## java
 
@@ -65,9 +70,13 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
 * [Cluster API](https://github.com/ms-choudhary/til/blob/main/notes/kubernetes/cluster-api.md) - 2026-08-22
 
+## learning
+
+* [Keeping up in tech](https://github.com/ms-choudhary/til/blob/main/notes/learning/keeping-up-in-tech.md) - 2026-09-08
+
 ## linux
 
-* [Booting Linux on x86_64](https://github.com/ms-choudhary/til/blob/main/notes/linux/booting-linux-on-x86-64.md) - 2026-08-22
+* [Booting Linux on x86_64](https://github.com/ms-choudhary/til/blob/main/notes/linux/booting-linux-on-x86-64.md) - 2026-09-08
 * [Dynamic kernel modules](https://github.com/ms-choudhary/til/blob/main/notes/linux/dynamic-kernel-modules.md) - 2026-08-22
 * [Package Management](https://github.com/ms-choudhary/til/blob/main/notes/linux/package-management.md) - 2026-08-22
 * [Terminal](https://github.com/ms-choudhary/til/blob/main/notes/linux/terminal.md) - 2026-08-22
@@ -82,21 +91,28 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 * [Bonds](https://github.com/ms-choudhary/til/blob/main/notes/money/bonds.md) - 2026-08-22
 * [E-Mandate on cards](https://github.com/ms-choudhary/til/blob/main/notes/money/emandate-on-cards.md) - 2026-08-22
 * [Employee Provident Fund (EPF)](https://github.com/ms-choudhary/til/blob/main/notes/money/epf.md) - 2026-08-22
-* [Income tax](https://github.com/ms-choudhary/til/blob/main/notes/money/income-tax.md) - 2026-08-22
+* [Income tax](https://github.com/ms-choudhary/til/blob/main/notes/money/income-tax.md) - 2026-09-08
+* [Income Tax Return (ITR)](https://github.com/ms-choudhary/til/blob/main/notes/money/itr.md) - 2026-09-08
 * [Liberalised Remittance Scheme (LRS)](https://github.com/ms-choudhary/til/blob/main/notes/money/lrs.md) - 2026-08-22
 * [Loan Against Securities](https://github.com/ms-choudhary/til/blob/main/notes/money/loan-against-securities.md) - 2026-08-22
 * [Mutual Fund Taxation](https://github.com/ms-choudhary/til/blob/main/notes/money/mutual-fund-taxation.md) - 2026-08-22
 * [National Pension Scheme (NPS)](https://github.com/ms-choudhary/til/blob/main/notes/money/nps.md) - 2026-08-22
 * [Tax Collected at Source (TCS)](https://github.com/ms-choudhary/til/blob/main/notes/money/tcs.md) - 2026-08-22
 
+## monitoring
+
+* [Grafana Alloy](https://github.com/ms-choudhary/til/blob/main/notes/monitoring/grafana-alloy.md) - 2026-09-08
+
 ## networking
 
 * [Container Networking](https://github.com/ms-choudhary/til/blob/main/notes/networking/container-networking.md) - 2026-08-22
 * [ip command](https://github.com/ms-choudhary/til/blob/main/notes/networking/ip-command.md) - 2026-08-22
 * [iptables command](https://github.com/ms-choudhary/til/blob/main/notes/networking/iptables-command.md) - 2026-08-22
+* [IPv6](https://github.com/ms-choudhary/til/blob/main/notes/networking/ipv6.md) - 2026-09-08
 * [Keepalived](https://github.com/ms-choudhary/til/blob/main/notes/networking/keepalived.md) - 2026-08-22
 * [Load Balancing Algorithms](https://github.com/ms-choudhary/til/blob/main/notes/networking/load-balancing-algorithms.md) - 2026-08-22
 * [Setup socat proxy to remote host](https://github.com/ms-choudhary/til/blob/main/notes/networking/socat-tcp-proxy.md) - 2026-08-22
+* [Subnets](https://github.com/ms-choudhary/til/blob/main/notes/networking/subnets.md) - 2026-09-08
 * [Tcpdump](https://github.com/ms-choudhary/til/blob/main/notes/networking/tcpdump.md) - 2026-08-22
 * [Wake On Lan (WOL)](https://github.com/ms-choudhary/til/blob/main/notes/networking/wake-on-lan.md) - 2026-08-22
 
@@ -106,7 +122,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 * [Cobbler](https://github.com/ms-choudhary/til/blob/main/notes/os-install/cobbler.md) - 2026-08-22
 * [DHCPD](https://github.com/ms-choudhary/til/blob/main/notes/os-install/dhcpd.md) - 2026-08-22
 * [Grub](https://github.com/ms-choudhary/til/blob/main/notes/os-install/grub.md) - 2026-08-22
-* [IDrac Racadm](https://github.com/ms-choudhary/til/blob/main/notes/os-install/idrac-racadm.md) - 2026-08-22
+* [IDrac Racadm](https://github.com/ms-choudhary/til/blob/main/notes/os-install/idrac-racadm.md) - 2026-09-08
 * [Initrd](https://github.com/ms-choudhary/til/blob/main/notes/os-install/initrd.md) - 2026-08-22
 * [Redfish](https://github.com/ms-choudhary/til/blob/main/notes/os-install/redfish.md) - 2026-08-22
 
@@ -125,6 +141,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 ## shell
 
 * [jq command](https://github.com/ms-choudhary/til/blob/main/notes/shell/jq.md) - 2026-08-22
+* [Man pages](https://github.com/ms-choudhary/til/blob/main/notes/shell/man-pages.md) - 2026-09-08
 * [Set time on linux](https://github.com/ms-choudhary/til/blob/main/notes/shell/set-time-on-linux.md) - 2026-08-22
 * [Shell Commands](https://github.com/ms-choudhary/til/blob/main/notes/shell/shell-commands.md) - 2026-08-22
 * [Vim](https://github.com/ms-choudhary/til/blob/main/notes/shell/vim.md) - 2026-08-22
@@ -139,21 +156,25 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
 ## ssh
 
+* [Config](https://github.com/ms-choudhary/til/blob/main/notes/ssh/config.md) - 2026-09-08
 * [SSH](https://github.com/ms-choudhary/til/blob/main/notes/ssh/ssh.md) - 2026-08-22
 
 ## storage
 
+* [/proc filesystem](https://github.com/ms-choudhary/til/blob/main/notes/storage/proc-fs.md) - 2026-09-08
 * [dd command](https://github.com/ms-choudhary/til/blob/main/notes/storage/dd.md) - 2026-08-22
 * [Explore remote drive via SSHFS](https://github.com/ms-choudhary/til/blob/main/notes/storage/sshfs.md) - 2026-08-22
+* [Find device name by disk id](https://github.com/ms-choudhary/til/blob/main/notes/storage/find-dev-name-by-disk-id.md) - 2026-09-08
 * [fstrim](https://github.com/ms-choudhary/til/blob/main/notes/storage/fstrim.md) - 2026-08-22
+* [Linux File IO Buffering](https://github.com/ms-choudhary/til/blob/main/notes/storage/linux-file-io-buffering.md) - 2026-09-08
 * [ostree](https://github.com/ms-choudhary/til/blob/main/notes/storage/ostree.md) - 2026-08-22
-* [partprobe](https://github.com/ms-choudhary/til/blob/main/notes/storage/partprobe.md) - 2026-08-22
-* [smartctl](https://github.com/ms-choudhary/til/blob/main/notes/storage/smartctl.md) - 2026-08-22
+* [partprobe](https://github.com/ms-choudhary/til/blob/main/notes/storage/partprobe.md) - 2026-09-08
+* [smartctl](https://github.com/ms-choudhary/til/blob/main/notes/storage/smartctl.md) - 2026-09-08
 * [Wipe software raid](https://github.com/ms-choudhary/til/blob/main/notes/storage/wipe-software-raid.md) - 2026-08-22
 
 ## system-design
 
-* [The Google File System](https://github.com/ms-choudhary/til/blob/main/notes/system-design/gfs.md) - 2026-08-22
+* [The Google File System](https://github.com/ms-choudhary/til/blob/main/notes/system-design/gfs.md) - 2026-09-08
 
 ## systemd
 

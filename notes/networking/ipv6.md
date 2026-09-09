@@ -39,13 +39,14 @@ Ports are represented as:
 
 #### Link local address
 
-All IPv6 address always has a link local scope address. Its generated on the host, using standard algorithm for the lower 64 bits, without requiring DHCP or any other network configuration. Packets with link local source/destination is not forwarded to other links. 
+All IPv6 interfaces always has a link local scope address. Its generated on the host, using standard algorithm for the lower 64 bits, without requiring DHCP or any other network configuration. Packets with link local source/destination is not forwarded to other links. 
 
 Within:
 ```
 fe80::/10
 ```
 
+See [link-local-address](/notes/networking/link-local-address.md). 
 #### Private Unique Local Address
 
 Private IPv6 networks similar to [IPv4 Address blocks](/notes/networking/subnets.md#IPv4%20Address%20blocks). Not globally routed

@@ -15,7 +15,7 @@ Power is the single most critical resource in a datacenter. It takes a long time
 PDU (Power Distribution Unit), ranges from glorified extension cables to advanced with full management features like control and metered individual sockets. 
 
 ### Network
-After power, network is 2nd most critical resource. You need a tier 1 ISP and peering with internet exchanges (IX) for low latency. 
+After power, network is 2nd most critical resource. You need a tier 1 ISP and peering with internet exchanges (IX) for low latency. [internet-routing](/notes/networking/internet-routing.md)
 
 ### Cooling
 Airflow and cooling will be required. 

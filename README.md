@@ -2,7 +2,7 @@
 
 My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
-<!-- count starts -->101<!-- count ends --> notes so far. 
+<!-- count starts -->106<!-- count ends --> notes so far. 
 
 <!-- index starts -->
 
@@ -49,7 +49,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
 ## hardware
 
-* [Building a datacenter](https://github.com/ms-choudhary/til/blob/main/notes/hardware/building-datacenter.md) - 2026-08-24
+* [Building a datacenter](https://github.com/ms-choudhary/til/blob/main/notes/hardware/building-datacenter.md) - 2026-09-09
 * [Performance benchmark](https://github.com/ms-choudhary/til/blob/main/notes/hardware/performance-benchmark.md) - 2026-08-22
 * [Silicon Transistor Gallium](https://github.com/ms-choudhary/til/blob/main/notes/hardware/silicon-transistor-gallium.md) - 2026-08-22
 * [Trusted Platform Module (TPM)](https://github.com/ms-choudhary/til/blob/main/notes/hardware/trusted-platform-module.md) - 2026-08-22
@@ -106,15 +106,20 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 ## networking
 
 * [Container Networking](https://github.com/ms-choudhary/til/blob/main/notes/networking/container-networking.md) - 2026-08-22
+* [Global Internet Routing](https://github.com/ms-choudhary/til/blob/main/notes/networking/internet-routing.md) - 2026-09-09
+* [IP Allocation](https://github.com/ms-choudhary/til/blob/main/notes/networking/ip-allocation.md) - 2026-09-09
 * [ip command](https://github.com/ms-choudhary/til/blob/main/notes/networking/ip-command.md) - 2026-08-22
 * [iptables command](https://github.com/ms-choudhary/til/blob/main/notes/networking/iptables-command.md) - 2026-08-22
-* [IPv6](https://github.com/ms-choudhary/til/blob/main/notes/networking/ipv6.md) - 2026-09-08
+* [IPv6](https://github.com/ms-choudhary/til/blob/main/notes/networking/ipv6.md) - 2026-09-09
 * [Keepalived](https://github.com/ms-choudhary/til/blob/main/notes/networking/keepalived.md) - 2026-08-22
+* [Link Local Address](https://github.com/ms-choudhary/til/blob/main/notes/networking/link-local-address.md) - 2026-09-09
 * [Load Balancing Algorithms](https://github.com/ms-choudhary/til/blob/main/notes/networking/load-balancing-algorithms.md) - 2026-08-22
 * [Setup socat proxy to remote host](https://github.com/ms-choudhary/til/blob/main/notes/networking/socat-tcp-proxy.md) - 2026-08-22
 * [Subnets](https://github.com/ms-choudhary/til/blob/main/notes/networking/subnets.md) - 2026-09-08
 * [Tcpdump](https://github.com/ms-choudhary/til/blob/main/notes/networking/tcpdump.md) - 2026-08-22
+* [Traceroute/ MTR](https://github.com/ms-choudhary/til/blob/main/notes/networking/traceroute-mtr.md) - 2026-09-09
 * [Wake On Lan (WOL)](https://github.com/ms-choudhary/til/blob/main/notes/networking/wake-on-lan.md) - 2026-08-22
+* [Whois](https://github.com/ms-choudhary/til/blob/main/notes/networking/whois.md) - 2026-09-09
 
 ## os-install
 

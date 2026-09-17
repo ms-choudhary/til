@@ -14,7 +14,7 @@
 
 #### Annotate
 
->I added a few notes to the document, address all the notes and update the document accordingly. don’t implement yet
+>I added a few comments to the document, address all the comments and update the document accordingly. don’t implement yet
 
 #### Add a todo list (for longer tasks)
 

@@ -2,7 +2,7 @@
 
 My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
-<!-- count starts -->106<!-- count ends --> notes so far. 
+<!-- count starts -->107<!-- count ends --> notes so far. 
 
 <!-- index starts -->
 
@@ -22,7 +22,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 * [Best Practices](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/best-practices.md) - 2026-09-08
 * [Claude code Workflow](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/claude-code-workflow.md) - 2026-09-08
 * [CLAUDE.md, Auto memory](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/claude-md.md) - 2026-09-08
-* [Prompts](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/prompts.md) - 2026-09-08
+* [Prompts](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/prompts.md) - 2026-09-17
 * [Skills](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/skills-md.md) - 2026-09-08
 * [Subagents](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/subagents.md) - 2026-09-08
 
@@ -30,6 +30,10 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
 * [Containers](https://github.com/ms-choudhary/til/blob/main/notes/container/containers.md) - 2026-08-22
 * [Docker Multiarch Images](https://github.com/ms-choudhary/til/blob/main/notes/container/docker-multiarch-images.md) - 2026-08-22
+
+## email
+
+* [Gmail Tricks](https://github.com/ms-choudhary/til/blob/main/notes/email/gmail-tricks.md) - 2026-09-17
 
 ## git
 
@@ -56,7 +60,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
 ## http
 
-* [Nginx](https://github.com/ms-choudhary/til/blob/main/notes/http/nginx.md) - 2026-09-08
+* [Nginx](https://github.com/ms-choudhary/til/blob/main/notes/http/nginx.md) - 2026-09-17
 
 ## java
 

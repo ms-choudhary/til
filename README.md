@@ -2,7 +2,7 @@
 
 My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
-<!-- count starts -->107<!-- count ends --> notes so far. 
+<!-- count starts -->112<!-- count ends --> notes so far. 
 
 <!-- index starts -->
 
@@ -22,7 +22,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 * [Best Practices](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/best-practices.md) - 2026-09-08
 * [Claude code Workflow](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/claude-code-workflow.md) - 2026-09-08
 * [CLAUDE.md, Auto memory](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/claude-md.md) - 2026-09-08
-* [Prompts](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/prompts.md) - 2026-09-17
+* [Prompts](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/prompts.md) - 2026-09-25
 * [Skills](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/skills-md.md) - 2026-09-08
 * [Subagents](https://github.com/ms-choudhary/til/blob/main/notes/claude-code/subagents.md) - 2026-09-08
 
@@ -38,6 +38,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 ## git
 
 * [Common git commands](https://github.com/ms-choudhary/til/blob/main/notes/git/common-git-commands.md) - 2026-09-08
+* [git worktree](https://github.com/ms-choudhary/til/blob/main/notes/git/git-worktree.md) - 2026-09-25
 * [Git's data model as psuedo code](https://github.com/ms-choudhary/til/blob/main/notes/git/git-data-model-as-psuedo-code.md) - 2026-08-22
 * [Merge Strategies](https://github.com/ms-choudhary/til/blob/main/notes/git/merge-strategies.md) - 2026-08-22
 * [Oh shit git!](https://github.com/ms-choudhary/til/blob/main/notes/git/oh-shit-git.md) - 2026-09-08
@@ -82,7 +83,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
 * [Booting Linux on x86_64](https://github.com/ms-choudhary/til/blob/main/notes/linux/booting-linux-on-x86-64.md) - 2026-09-08
 * [Dynamic kernel modules](https://github.com/ms-choudhary/til/blob/main/notes/linux/dynamic-kernel-modules.md) - 2026-08-22
-* [Package Management](https://github.com/ms-choudhary/til/blob/main/notes/linux/package-management.md) - 2026-08-22
+* [Package Management](https://github.com/ms-choudhary/til/blob/main/notes/linux/package-management.md) - 2026-09-25
 * [Terminal](https://github.com/ms-choudhary/til/blob/main/notes/linux/terminal.md) - 2026-08-22
 
 ## macos
@@ -120,6 +121,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 * [Load Balancing Algorithms](https://github.com/ms-choudhary/til/blob/main/notes/networking/load-balancing-algorithms.md) - 2026-08-22
 * [Setup socat proxy to remote host](https://github.com/ms-choudhary/til/blob/main/notes/networking/socat-tcp-proxy.md) - 2026-08-22
 * [Subnets](https://github.com/ms-choudhary/til/blob/main/notes/networking/subnets.md) - 2026-09-08
+* [Tailscale](https://github.com/ms-choudhary/til/blob/main/notes/networking/tailscale.md) - 2026-09-25
 * [Tcpdump](https://github.com/ms-choudhary/til/blob/main/notes/networking/tcpdump.md) - 2026-08-22
 * [Traceroute/ MTR](https://github.com/ms-choudhary/til/blob/main/notes/networking/traceroute-mtr.md) - 2026-09-09
 * [Wake On Lan (WOL)](https://github.com/ms-choudhary/til/blob/main/notes/networking/wake-on-lan.md) - 2026-08-22
@@ -174,12 +176,14 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 * [dd command](https://github.com/ms-choudhary/til/blob/main/notes/storage/dd.md) - 2026-08-22
 * [Explore remote drive via SSHFS](https://github.com/ms-choudhary/til/blob/main/notes/storage/sshfs.md) - 2026-08-22
 * [Find device name by disk id](https://github.com/ms-choudhary/til/blob/main/notes/storage/find-dev-name-by-disk-id.md) - 2026-09-08
-* [fstrim](https://github.com/ms-choudhary/til/blob/main/notes/storage/fstrim.md) - 2026-08-22
+* [fstrim](https://github.com/ms-choudhary/til/blob/main/notes/storage/fstrim.md) - 2026-09-25
+* [Hardware Raid](https://github.com/ms-choudhary/til/blob/main/notes/storage/hardware-raid.md) - 2026-09-25
 * [Linux File IO Buffering](https://github.com/ms-choudhary/til/blob/main/notes/storage/linux-file-io-buffering.md) - 2026-09-08
+* [lsblk](https://github.com/ms-choudhary/til/blob/main/notes/storage/lsblk.md) - 2026-09-25
 * [ostree](https://github.com/ms-choudhary/til/blob/main/notes/storage/ostree.md) - 2026-08-22
-* [partprobe](https://github.com/ms-choudhary/til/blob/main/notes/storage/partprobe.md) - 2026-09-08
-* [smartctl](https://github.com/ms-choudhary/til/blob/main/notes/storage/smartctl.md) - 2026-09-08
-* [Wipe software raid](https://github.com/ms-choudhary/til/blob/main/notes/storage/wipe-software-raid.md) - 2026-08-22
+* [partprobe](https://github.com/ms-choudhary/til/blob/main/notes/storage/partprobe.md) - 2026-09-25
+* [smartctl](https://github.com/ms-choudhary/til/blob/main/notes/storage/smartctl.md) - 2026-09-25
+* [Wipe software raid](https://github.com/ms-choudhary/til/blob/main/notes/storage/wipe-software-raid.md) - 2026-09-25
 
 ## system-design
 
@@ -202,6 +206,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
 * [Inspect VM filesystem](https://github.com/ms-choudhary/til/blob/main/notes/virtualization/inspect-vm-filesystem.md) - 2026-08-22
 * [qemu-guest-agent](https://github.com/ms-choudhary/til/blob/main/notes/virtualization/qemu-guest-agent.md) - 2026-08-22
+* [sbx](https://github.com/ms-choudhary/til/blob/main/notes/virtualization/sbx.md) - 2026-09-25
 
 ## writing
 

@@ -13,3 +13,8 @@ health is sometimes superficial, check all:
 ```
 smartctl -a /dev/sda1
 ```
+
+## Sources
+- 
+## Related
+- [hardware-raid](/notes/storage/hardware-raid.md)

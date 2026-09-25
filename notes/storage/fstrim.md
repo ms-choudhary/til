@@ -23,3 +23,7 @@ If you're using packer with qemu/kvm, use newer devices `q35` over `pc` (outdate
 fstrim /path/to/mount
 ```
 
+## Sources
+- 
+## Related
+- [lsblk](/notes/storage/lsblk.md)

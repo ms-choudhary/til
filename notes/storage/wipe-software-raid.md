@@ -17,4 +17,4 @@ wipefs -a /dev/sdb
 ## Sources
 - 
 ## Related
-- [[]]
+- [hardware-raid](/notes/storage/hardware-raid.md)

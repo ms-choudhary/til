@@ -12,7 +12,13 @@ $ dpkg -l
 $ dpkg -L tcpdump
 
 # Reverse lookup, which package provides this file
-$ dpkg-query -S /usr/bin/dig
+$ dpkg-query -S $(which gh)
+
+# Find which apt repo was used for package
+$ apt-cache policy gh
+
+# Upgrade package
+$ apt update && apt install gh
 ```
 
 Packaging systems can keep track of dependencies only if all softwares are installed via package management. If for eg, awscli was installed outside package management, dpkg won't know if upgrading python will break awscli. 

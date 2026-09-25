@@ -4,6 +4,11 @@
 
 > I trying to learn about [topic], do deep search and try to find blogs, books, courses, papers, articles, talks on this topics.
 
+
+### Find notes
+
+> read the content of all the bookmarks in karakeep with [tagname] tag in depth and collect links of all bookmarks related to [topic]. also include related bookmarks as well. 
+
 #### Research
 
 > read this folder in depth, understand how it works deeply, what it does and all its specificities. when that’s done, write a detailed report of your learnings and findings in research.md

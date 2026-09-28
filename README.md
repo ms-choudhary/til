@@ -38,7 +38,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 ## git
 
 * [Common git commands](https://github.com/ms-choudhary/til/blob/main/notes/git/common-git-commands.md) - 2026-09-08
-* [git worktree](https://github.com/ms-choudhary/til/blob/main/notes/git/git-worktree.md) - 2026-09-25
+* [git worktree](https://github.com/ms-choudhary/til/blob/main/notes/git/git-worktree.md) - 2026-09-28
 * [Git's data model as psuedo code](https://github.com/ms-choudhary/til/blob/main/notes/git/git-data-model-as-psuedo-code.md) - 2026-08-22
 * [Merge Strategies](https://github.com/ms-choudhary/til/blob/main/notes/git/merge-strategies.md) - 2026-08-22
 * [Oh shit git!](https://github.com/ms-choudhary/til/blob/main/notes/git/oh-shit-git.md) - 2026-09-08

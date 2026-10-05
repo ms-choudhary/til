@@ -194,3 +194,4 @@ but it's risky.
 - [grub](/notes/os-install/grub.md)
 - [initrd](/notes/os-install/initrd.md)
 - [anaconda](/notes/os-install/anaconda.md)
+- [Boot ID](/notes/storage/proc-fs.md#Boot_ID)

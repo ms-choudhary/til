@@ -10,7 +10,6 @@
 - Keep pressing the power button till, it loads startup option
 - Select the drive and continue
 
-
 ### Clear DNS cache
 
 ```
@@ -35,6 +34,10 @@ Option + Shift + 8 => °
 	sudo mdutil -Eai off
 	sudo mdutil -Eai on
 ```
+
+### Keep all icloud files local
+
+Go to `System Settings` -> `User` -> `iCloud` -> `Drive`, switch off `Optimise Mac Storage`. This keeps all icloud content locally, provided you've enough space. 
 
 ## Sources
 - 

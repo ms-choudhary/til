@@ -26,7 +26,14 @@ It's a virtual filesystem which provides interface to kernel internal data struc
 - /proc/PID/task - one subdir per thread
 
 ![](/_images/proc-fs-files.jpeg)
+
+### Boot ID
+
+`/proc/sys/kernel/random/boot_id` holds random id which changes at every boot and is assigned quite early in the boot process. 
+
+It is used by systemd & journalctl to track separate logs on reboot. 
+
 ## Sources
 - 
 ## Related
-- 
+- [booting-linux-on-x86-64](/notes/linux/booting-linux-on-x86-64.md)

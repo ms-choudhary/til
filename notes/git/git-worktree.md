@@ -1,6 +1,6 @@
 # git worktree 
 
-Git worktree allow you to create multiple work dir from the same repo, each checked out to different branch. 
+Git worktree allows you to create multiple work dir from the same repo, each checked out to different branch. 
 
 For eg, if you're working on a feature and want to check something on main, traditionally you had to do:
 ```

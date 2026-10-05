@@ -2,7 +2,7 @@
 
 My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
-<!-- count starts -->112<!-- count ends --> notes so far. 
+<!-- count starts -->118<!-- count ends --> notes so far. 
 
 <!-- index starts -->
 
@@ -37,10 +37,14 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
 ## git
 
-* [Common git commands](https://github.com/ms-choudhary/til/blob/main/notes/git/common-git-commands.md) - 2026-09-08
-* [git worktree](https://github.com/ms-choudhary/til/blob/main/notes/git/git-worktree.md) - 2026-09-28
+* [Git Add](https://github.com/ms-choudhary/til/blob/main/notes/git/git-add.md) - 2026-10-05
+* [Git History](https://github.com/ms-choudhary/til/blob/main/notes/git/git-history.md) - 2026-10-05
+* [Git Rebase](https://github.com/ms-choudhary/til/blob/main/notes/git/git-rebase.md) - 2026-10-05
+* [Git remote](https://github.com/ms-choudhary/til/blob/main/notes/git/git-remote.md) - 2026-10-05
+* [git tag](https://github.com/ms-choudhary/til/blob/main/notes/git/git-tag.md) - 2026-10-05
+* [git worktree](https://github.com/ms-choudhary/til/blob/main/notes/git/git-worktree.md) - 2026-10-05
 * [Git's data model as psuedo code](https://github.com/ms-choudhary/til/blob/main/notes/git/git-data-model-as-psuedo-code.md) - 2026-08-22
-* [Merge Strategies](https://github.com/ms-choudhary/til/blob/main/notes/git/merge-strategies.md) - 2026-08-22
+* [Merge Strategies](https://github.com/ms-choudhary/til/blob/main/notes/git/merge-strategies.md) - 2026-10-05
 * [Oh shit git!](https://github.com/ms-choudhary/til/blob/main/notes/git/oh-shit-git.md) - 2026-09-08
 
 ## go
@@ -81,7 +85,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
 ## linux
 
-* [Booting Linux on x86_64](https://github.com/ms-choudhary/til/blob/main/notes/linux/booting-linux-on-x86-64.md) - 2026-09-08
+* [Booting Linux on x86_64](https://github.com/ms-choudhary/til/blob/main/notes/linux/booting-linux-on-x86-64.md) - 2026-10-05
 * [Dynamic kernel modules](https://github.com/ms-choudhary/til/blob/main/notes/linux/dynamic-kernel-modules.md) - 2026-08-22
 * [Package Management](https://github.com/ms-choudhary/til/blob/main/notes/linux/package-management.md) - 2026-09-25
 * [Terminal](https://github.com/ms-choudhary/til/blob/main/notes/linux/terminal.md) - 2026-08-22
@@ -89,7 +93,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 ## macos
 
 * [Launchd](https://github.com/ms-choudhary/til/blob/main/notes/macos/launchd.md) - 2026-08-22
-* [Macos](https://github.com/ms-choudhary/til/blob/main/notes/macos/macos.md) - 2026-08-22
+* [Macos](https://github.com/ms-choudhary/til/blob/main/notes/macos/macos.md) - 2026-10-05
 
 ## money
 
@@ -107,6 +111,10 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 ## monitoring
 
 * [Grafana Alloy](https://github.com/ms-choudhary/til/blob/main/notes/monitoring/grafana-alloy.md) - 2026-09-08
+
+## netbox
+
+* [Netbox Diode](https://github.com/ms-choudhary/til/blob/main/notes/netbox/netbox-diode.md) - 2026-10-05
 
 ## networking
 
@@ -172,7 +180,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
 ## storage
 
-* [/proc filesystem](https://github.com/ms-choudhary/til/blob/main/notes/storage/proc-fs.md) - 2026-09-08
+* [/proc filesystem](https://github.com/ms-choudhary/til/blob/main/notes/storage/proc-fs.md) - 2026-10-05
 * [dd command](https://github.com/ms-choudhary/til/blob/main/notes/storage/dd.md) - 2026-08-22
 * [Explore remote drive via SSHFS](https://github.com/ms-choudhary/til/blob/main/notes/storage/sshfs.md) - 2026-08-22
 * [Find device name by disk id](https://github.com/ms-choudhary/til/blob/main/notes/storage/find-dev-name-by-disk-id.md) - 2026-09-08
@@ -196,6 +204,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 ## terraform
 
 * [For each and count meta argument](https://github.com/ms-choudhary/til/blob/main/notes/terraform/for-each-count-meta-argument.md) - 2026-08-22
+* [Terraform Workspaces](https://github.com/ms-choudhary/til/blob/main/notes/terraform/terraform-workspaces.md) - 2026-10-05
 
 ## utm
 

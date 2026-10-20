@@ -2,7 +2,7 @@
 
 My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
-<!-- count starts -->118<!-- count ends --> notes so far. 
+<!-- count starts -->117<!-- count ends --> notes so far. 
 
 <!-- index starts -->
 
@@ -10,6 +10,10 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
 * [Agentic Engineering](https://github.com/ms-choudhary/til/blob/main/notes/ai/agentic-engineering.md) - 2026-08-22
 * [Google Search AI Overview](https://github.com/ms-choudhary/til/blob/main/notes/ai/google-search-ai.md) - 2026-08-22
+
+## atlassian
+
+* [Jira](https://github.com/ms-choudhary/til/blob/main/notes/atlassian/jira.md) - 2026-10-20
 
 ## certificates
 
@@ -31,6 +35,10 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 * [Containers](https://github.com/ms-choudhary/til/blob/main/notes/container/containers.md) - 2026-08-22
 * [Docker Multiarch Images](https://github.com/ms-choudhary/til/blob/main/notes/container/docker-multiarch-images.md) - 2026-08-22
 
+## datacenter
+
+* [Building a datacenter](https://github.com/ms-choudhary/til/blob/main/notes/datacenter/building-datacenter.md) - 2026-10-20
+
 ## email
 
 * [Gmail Tricks](https://github.com/ms-choudhary/til/blob/main/notes/email/gmail-tricks.md) - 2026-09-17
@@ -39,7 +47,6 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
 * [Git Add](https://github.com/ms-choudhary/til/blob/main/notes/git/git-add.md) - 2026-10-05
 * [Git History](https://github.com/ms-choudhary/til/blob/main/notes/git/git-history.md) - 2026-10-05
-* [Git Rebase](https://github.com/ms-choudhary/til/blob/main/notes/git/git-rebase.md) - 2026-10-05
 * [Git remote](https://github.com/ms-choudhary/til/blob/main/notes/git/git-remote.md) - 2026-10-05
 * [git tag](https://github.com/ms-choudhary/til/blob/main/notes/git/git-tag.md) - 2026-10-05
 * [git worktree](https://github.com/ms-choudhary/til/blob/main/notes/git/git-worktree.md) - 2026-10-05
@@ -58,14 +65,9 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
 ## hardware
 
-* [Building a datacenter](https://github.com/ms-choudhary/til/blob/main/notes/hardware/building-datacenter.md) - 2026-09-09
 * [Performance benchmark](https://github.com/ms-choudhary/til/blob/main/notes/hardware/performance-benchmark.md) - 2026-08-22
 * [Silicon Transistor Gallium](https://github.com/ms-choudhary/til/blob/main/notes/hardware/silicon-transistor-gallium.md) - 2026-08-22
 * [Trusted Platform Module (TPM)](https://github.com/ms-choudhary/til/blob/main/notes/hardware/trusted-platform-module.md) - 2026-08-22
-
-## http
-
-* [Nginx](https://github.com/ms-choudhary/til/blob/main/notes/http/nginx.md) - 2026-09-17
 
 ## java
 
@@ -106,7 +108,6 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 * [Loan Against Securities](https://github.com/ms-choudhary/til/blob/main/notes/money/loan-against-securities.md) - 2026-08-22
 * [Mutual Fund Taxation](https://github.com/ms-choudhary/til/blob/main/notes/money/mutual-fund-taxation.md) - 2026-08-22
 * [National Pension Scheme (NPS)](https://github.com/ms-choudhary/til/blob/main/notes/money/nps.md) - 2026-08-22
-* [Tax Collected at Source (TCS)](https://github.com/ms-choudhary/til/blob/main/notes/money/tcs.md) - 2026-08-22
 
 ## monitoring
 
@@ -119,7 +120,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 ## networking
 
 * [Container Networking](https://github.com/ms-choudhary/til/blob/main/notes/networking/container-networking.md) - 2026-08-22
-* [Global Internet Routing](https://github.com/ms-choudhary/til/blob/main/notes/networking/internet-routing.md) - 2026-09-09
+* [Global Internet Routing](https://github.com/ms-choudhary/til/blob/main/notes/networking/internet-routing.md) - 2026-10-20
 * [IP Allocation](https://github.com/ms-choudhary/til/blob/main/notes/networking/ip-allocation.md) - 2026-09-09
 * [ip command](https://github.com/ms-choudhary/til/blob/main/notes/networking/ip-command.md) - 2026-08-22
 * [iptables command](https://github.com/ms-choudhary/til/blob/main/notes/networking/iptables-command.md) - 2026-08-22
@@ -163,7 +164,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 * [Man pages](https://github.com/ms-choudhary/til/blob/main/notes/shell/man-pages.md) - 2026-09-08
 * [Set time on linux](https://github.com/ms-choudhary/til/blob/main/notes/shell/set-time-on-linux.md) - 2026-08-22
 * [Shell Commands](https://github.com/ms-choudhary/til/blob/main/notes/shell/shell-commands.md) - 2026-08-22
-* [Vim](https://github.com/ms-choudhary/til/blob/main/notes/shell/vim.md) - 2026-08-22
+* [Vim](https://github.com/ms-choudhary/til/blob/main/notes/shell/vim.md) - 2026-10-20
 
 ## slack
 
@@ -216,6 +217,10 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 * [Inspect VM filesystem](https://github.com/ms-choudhary/til/blob/main/notes/virtualization/inspect-vm-filesystem.md) - 2026-08-22
 * [qemu-guest-agent](https://github.com/ms-choudhary/til/blob/main/notes/virtualization/qemu-guest-agent.md) - 2026-08-22
 * [sbx](https://github.com/ms-choudhary/til/blob/main/notes/virtualization/sbx.md) - 2026-09-25
+
+## windows
+
+* [Windows](https://github.com/ms-choudhary/til/blob/main/notes/windows/windows.md) - 2026-10-20
 
 ## writing
 

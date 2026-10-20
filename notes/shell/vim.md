@@ -1,6 +1,15 @@
 # Vim
 
 **Source**: 
+
+### Write as sudo trick
+
+```
+:w !sudo tee %
+```
+
+% = current file name in execution command context (in substitution context it means entire file buffer)
+
 ### No paste
 
 To ignore indenting while pasting text in vim

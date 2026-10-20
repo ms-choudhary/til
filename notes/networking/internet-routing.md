@@ -25,7 +25,7 @@ Autonomous Systems Number (ASN) is assigned by IANA along with [ip-allocation](/
 ![](/_images/internet.png)
 Peering connects multiple such networks (AS) physically. This allows sharing routing info via bgp. Such connections are called peering points or internet exchange points (IXPs). These are strategically located in data warehouses across the globe. The central stars in above diagrams are the IXPs. 
 
-Peering and ASN are public information available at [peeringdb](https://www.peeringdb.com/net/1903). Useful when you're planning to setup a datacenter. [building-datacenter](/notes/hardware/building-datacenter.md)
+Peering and ASN are public information available at [peeringdb](https://www.peeringdb.com/net/1903). Useful when you're planning to setup a datacenter. [building-datacenter](/notes/datacenter/building-datacenter.md)
 
 Not every network directly peers with others at public IXP, there're private connection as well. 
 

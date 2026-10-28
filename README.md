@@ -2,7 +2,7 @@
 
 My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
-<!-- count starts -->117<!-- count ends --> notes so far. 
+<!-- count starts -->120<!-- count ends --> notes so far. 
 
 <!-- index starts -->
 
@@ -47,6 +47,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 
 * [Git Add](https://github.com/ms-choudhary/til/blob/main/notes/git/git-add.md) - 2026-10-05
 * [Git History](https://github.com/ms-choudhary/til/blob/main/notes/git/git-history.md) - 2026-10-05
+* [Git Rebase](https://github.com/ms-choudhary/til/blob/main/notes/git/git-rebase.md) - 2026-10-28
 * [Git remote](https://github.com/ms-choudhary/til/blob/main/notes/git/git-remote.md) - 2026-10-05
 * [git tag](https://github.com/ms-choudhary/til/blob/main/notes/git/git-tag.md) - 2026-10-05
 * [git worktree](https://github.com/ms-choudhary/til/blob/main/notes/git/git-worktree.md) - 2026-10-05
@@ -68,6 +69,10 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 * [Performance benchmark](https://github.com/ms-choudhary/til/blob/main/notes/hardware/performance-benchmark.md) - 2026-08-22
 * [Silicon Transistor Gallium](https://github.com/ms-choudhary/til/blob/main/notes/hardware/silicon-transistor-gallium.md) - 2026-08-22
 * [Trusted Platform Module (TPM)](https://github.com/ms-choudhary/til/blob/main/notes/hardware/trusted-platform-module.md) - 2026-08-22
+
+## http
+
+* [Nginx](https://github.com/ms-choudhary/til/blob/main/notes/http/nginx.md) - 2026-10-28
 
 ## java
 
@@ -108,6 +113,7 @@ My notes. Inspired by [simonw/til](https://github.com/simonw/til).
 * [Loan Against Securities](https://github.com/ms-choudhary/til/blob/main/notes/money/loan-against-securities.md) - 2026-08-22
 * [Mutual Fund Taxation](https://github.com/ms-choudhary/til/blob/main/notes/money/mutual-fund-taxation.md) - 2026-08-22
 * [National Pension Scheme (NPS)](https://github.com/ms-choudhary/til/blob/main/notes/money/nps.md) - 2026-08-22
+* [Tax Collected at Source (TCS)](https://github.com/ms-choudhary/til/blob/main/notes/money/tcs.md) - 2026-10-28
 
 ## monitoring
 
